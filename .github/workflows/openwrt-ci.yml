@@ -10,9 +10,9 @@
 name: 生态城
 
 on:
-  schedule:
+  #schedule:
     – cron: 0 20 * * *
-  push:
+  #push:
     branches:
       – master
 
